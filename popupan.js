@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/billy.do.334';
+	var url_popup = 'http://news.zing.vn/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
